@@ -14,7 +14,7 @@
 - RSS：
 - 站点主题关键词：
 
-## 我这边的信息（请你替换成真实内容）
+## 我这边的信息
 
 - 名称：He Chenyu
 - 网址：https://chenyuheee.github.io/
