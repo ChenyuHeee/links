@@ -6,6 +6,9 @@ export default defineConfig({
   description: '友情链接',
   base: '/links/',
   themeConfig: {
+    search: {
+      provider: 'local'
+    },
     nav: [
       { text: 'Friends', link: '/friends' },
       { text: 'Submit', link: '/submit' },
