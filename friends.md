@@ -10,10 +10,10 @@
 
 ## 学习/技术
 
-- **C** · C 语言相关内容 · https://chenyuheee.github.io/c
-- **MD** · Markdown 相关内容 · https://chenyuheee.github.io/md
-- **ZJU Code Golf** · Code Golf 相关站点 · https://zjucodegolf.xyz
+- **ZJU Code Golf** · C Code Golf  · https://zjucodegolf.xyz
 
 ## 工具/资源
 
-- **Marquet Viewer** · 在线查看工具 · https://chenyuheee.github.io/marquetviewer
+- **C Compiler** · 在线C 语言编译器 · https://chenyuheee.github.io/c
+- **MD Editor** · Markdown 编辑器 · https://chenyuheee.github.io/md
+- **Parquet Viewer** · 在线查看工具 · https://chenyuheee.github.io/ParquetViewer
