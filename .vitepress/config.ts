@@ -5,6 +5,10 @@ export default defineConfig({
   title: 'Links',
   description: '友情链接',
   base: '/links/',
+  head: [
+    ['link', { rel: 'icon', type: 'image/svg+xml', href: '/links/icon.svg' }],
+    ['meta', { name: 'theme-color', content: '#22C55E' }]
+  ],
   themeConfig: {
     search: {
       provider: 'local'
