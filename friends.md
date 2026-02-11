@@ -14,6 +14,7 @@
 
 ## 工具/资源
 
+- **PolicyPulse** · 金融新闻潮 · https://chenyuheee.github.io/PolicyPulse/
 - **C Compiler** · 在线C 语言编译器 · https://chenyuheee.github.io/c
 - **MD Editor** · Markdown 编辑器 · https://chenyuheee.github.io/md
 - **Parquet Viewer** · 在线查看工具 · https://chenyuheee.github.io/ParquetViewer
