@@ -9,7 +9,7 @@
 - **万叶假名转换** · 在线万叶假名转换工具 · https://graah-ihuu.github.io/manyogana-translator
 
 ## 学习/技术
-
+- **PaperTide** · 论文汇总 · https://chenyuheee.github.io/PaperTide/
 - **ZJU Code Golf** · C Code Golf  · https://zjucodegolf.xyz
 
 ## 工具/资源
